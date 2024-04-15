@@ -1,0 +1,8 @@
+# ninja log v5
+2	363	1710311481281450433	CMakeFiles/Lab_01_Dynamic_Memory.dir/Task1.cpp.o	f169128a3d98d83a
+1	45	1710311521768991904	Lab_01_Dynamic_Memory	1ddd5ebca9f0308
+0	391	1710311443033861191	CMakeFiles/Lab_01_Dynamic_Memory.dir/main.cpp.o	d52fd0e216ed2adb
+0	67	1710311623566874805	build.ninja	6a54fedb19f8c457
+2	31	1710311662087015027	CMakeFiles/Lab_01_Dynamic_Memory.dir/Task2.cpp.o	24d605d3c4a9e42d
+31	70	1710311662125012036	Lab_01_Dynamic_Memory	dc3f0b5bb161a104
+2	372	1710312644915056161	CMakeFiles/Lab_01_Dynamic_Memory.dir/Task2.cpp.o	24d605d3c4a9e42d

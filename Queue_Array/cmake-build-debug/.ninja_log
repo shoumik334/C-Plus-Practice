@@ -1,0 +1,6 @@
+# ninja log v5
+0	317	1713172799675064594	CMakeFiles/Queue_Array.dir/main.cpp.o	73cbfe01bd55aec
+319	356	1713172799715174437	Queue_Array	3cb369e6d2405145
+2	31	1713173123358440506	CMakeFiles/Queue_Array.dir/quetype.cpp.o	5dc49cf62d613b83
+2	319	1713173123644808595	CMakeFiles/Queue_Array.dir/main.cpp.o	73cbfe01bd55aec
+2	328	1713173187515847097	CMakeFiles/Queue_Array.dir/main.cpp.o	73cbfe01bd55aec

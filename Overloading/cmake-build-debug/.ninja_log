@@ -1,0 +1,7 @@
+# ninja log v5
+2	348	1710310256197435392	CMakeFiles/Overloading.dir/complex.cpp.o	c5c630d6996a8783
+0	44	1710310537137147381	build.ninja	21ab9dda141861bf
+0	347	1710310537488021882	CMakeFiles/Overloading.dir/Complex.cpp.o	93ffd42bb41fdf88
+2	355	1710310650449774520	CMakeFiles/Overloading.dir/Complex.cpp.o	93ffd42bb41fdf88
+2	361	1710310716343365718	CMakeFiles/Overloading.dir/main.cpp.o	ea62a6dafed80b06
+361	473	1710310716455594989	Overloading	e4ebf368669ccfda
