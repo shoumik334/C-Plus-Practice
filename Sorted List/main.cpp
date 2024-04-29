@@ -104,7 +104,8 @@ int main() {
    timeList.InsertItem(timeStamp(15,34,23));
    timeList.InsertItem(timeStamp(13,13,02));
    timeList.InsertItem(timeStamp(43,45,12));
-    timeList.InsertItem(timeStamp(25,36,27));
+    timeList.InsertItem(timeStamp(25,36,17
+    ));
     timeList.InsertItem(timeStamp(52,02,30));
 
     timeList.DeleteItem(timeStamp(25,36,27));
