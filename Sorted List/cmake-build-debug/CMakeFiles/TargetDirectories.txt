@@ -1,0 +1,3 @@
+/Users/shoumik/C-Plus-Practice/Sorted List/cmake-build-debug/CMakeFiles/Sorted_List.dir
+/Users/shoumik/C-Plus-Practice/Sorted List/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shoumik/C-Plus-Practice/Sorted List/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -11,7 +11,7 @@ public :
     int LengthIs();
     void InsertItem(ItemType);
     void DeleteItem(ItemType);
-    void RetrieveItem(ItemType&, bool&);
+    int RetrieveItem(ItemType&, bool&);
     void ResetList();
     void GetNextItem(ItemType&);
 private:

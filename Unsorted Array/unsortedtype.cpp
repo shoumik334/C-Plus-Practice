@@ -34,7 +34,7 @@ item)
     item = info [currentPos] ;
 }
 template <class ItemType>
-void
+int
 UnsortedType<ItemType>::RetrieveItem(ItemType&
 item, bool &found)
 {

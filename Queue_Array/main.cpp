@@ -1,5 +1,5 @@
 #include <iostream>
-#include "quetype.h"
+#include "quetype.cpp"
 using namespace std;
 
 int main() {
