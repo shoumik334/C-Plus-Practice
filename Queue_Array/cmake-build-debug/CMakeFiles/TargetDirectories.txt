@@ -1,3 +1,0 @@
-/Users/shoumik/C-Plus-Practice/Queue_Array/cmake-build-debug/CMakeFiles/Queue_Array.dir
-/Users/shoumik/C-Plus-Practice/Queue_Array/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/shoumik/C-Plus-Practice/Queue_Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/shoumik/C-Plus-Practice/Lab 10/cmake-build-debug/CMakeFiles/Stack_Linked_List.dir
+/Users/shoumik/C-Plus-Practice/Lab 10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shoumik/C-Plus-Practice/Lab 10/cmake-build-debug/CMakeFiles/rebuild_cache.dir

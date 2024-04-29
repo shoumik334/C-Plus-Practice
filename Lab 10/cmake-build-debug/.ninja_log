@@ -1,0 +1,7 @@
+# ninja log v5
+1	327	1713348115627684105	CMakeFiles/Stack_Linked_List.dir/stacktype.cpp.o	35d5a5a20128f330
+2	345	1713348502066638530	CMakeFiles/Stack_Linked_List.dir/main.cpp.o	b9480e60070aaeba
+345	383	1713348502106226004	Stack_Linked_List	831adf743bcef668
+2	248	1714391268512617181	CMakeFiles/Stack_Linked_List.dir/stacktype.cpp.o	4fcc830fc5f2a377
+2	277	1714391268541798424	CMakeFiles/Stack_Linked_List.dir/main.cpp.o	b27ec24facdff316
+277	309	1714391268574053144	Stack_Linked_List	831adf743bcef668

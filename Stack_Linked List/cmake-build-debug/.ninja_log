@@ -1,9 +1,0 @@
-# ninja log v5
-1	327	1713348115627684105	CMakeFiles/Stack_Linked_List.dir/stacktype.cpp.o	35d5a5a20128f330
-0	364	1713348115664142348	CMakeFiles/Stack_Linked_List.dir/main.cpp.o	b9480e60070aaeba
-1	345	1713348239389322665	CMakeFiles/Stack_Linked_List.dir/main.cpp.o	b9480e60070aaeba
-345	382	1713348239428804349	Stack_Linked_List	831adf743bcef668
-1	344	1713348448090386124	CMakeFiles/Stack_Linked_List.dir/main.cpp.o	b9480e60070aaeba
-345	381	1713348448128276952	Stack_Linked_List	831adf743bcef668
-2	345	1713348502066638530	CMakeFiles/Stack_Linked_List.dir/main.cpp.o	b9480e60070aaeba
-345	383	1713348502106226004	Stack_Linked_List	831adf743bcef668
